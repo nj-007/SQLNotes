@@ -12,6 +12,8 @@
 
 ## Introduction to Indexing
 
+--INDEXING--it stores a pointer in memory to the table in disk and thats why fetch is faster
+
 Hello Everyone
 
 Till now, in the course, we had been discussing majorly about how to write SQL queries to fetch data we want to fetch. While discussing those queries, I also often wrote pseudocode talking about how at a higher level that query might work behind the scenes. 
